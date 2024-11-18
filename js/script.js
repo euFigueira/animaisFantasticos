@@ -27,7 +27,6 @@ tooltip.init();
 
 
 initAnimacaoScroll();
-Tooltip();
 initDropdownMenu();
 initMenuMobile();
 initFuncionamento();
