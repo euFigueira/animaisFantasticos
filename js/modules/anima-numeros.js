@@ -24,7 +24,7 @@ export default class AnimaNumeros {
     }, 25 * Math.random());
   }
 
-  // Ativa incrementar número para cada
+  // Ativa incrementar número p cada
   // número selecionado do dom
   animaNumeros() {
     this.numeros.forEach(numero => this.constructor.incrementarNumero(numero));
